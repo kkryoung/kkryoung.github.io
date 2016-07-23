@@ -7,65 +7,24 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="/img/icon.jpg" align="center"></p>
+    <p><img src="/img/icon.jpg" width = "80%" height ="80%" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+想创建一个公众号的想法由来已久，直到4月辞职，心想终于可以心无旁骛认认真真写点自己的小文章（呵呵，天真的我），在公众号泛滥的时代大潮中扑腾几下，但愿能看到点水花，如果不能就当洗澡了。
 
-现在研习 **认知写作学** 。
+结果，呵呵。
 
-###坚信
+过去的一个月，我每天在睡生梦死里依靠各种幻想度日，偶尔焦灼地考虑一下公众号该取个啥名儿呢，一直想到了今天。你们知道，名字对于一个人命运的重要性，所以在取名这件事上我特别慎重。终于，在浪小阳的帮助下，“闭眼狐小狸”应运而生。为了防止我忘掉或者改变主意，马上打开电脑创建了现在这个公众号。
 
+在过去的很多年里，有经常看我空间或微博的朋友总是叫我写文章，投稿，出书（对此我又呵呵了），真心感谢那些给我鼓励和喝彩的朋友们对我的支持，也许这才是这个公众号诞生的最原始动力。在跌跌撞撞的成长途中，学会了谦虚低调、不轻许诺。所以，且不说我会做到什么成绩，但我会尽量认真努力经营好它哒！
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+从今以后，我就是狐小狸啦！
 
-
-###关注：
-
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
-
-
-
-
-###代表作：
-
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
-
-
-###我的朋友们
-
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
-
-###联系
-
-- [博客：www.cnfeat.com](www.cnfeat.com)
-
-- [微博@CnFeat](http://weibo.com/207775270)
-
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
+记得每天来看我哦！（公众号：闭眼狐小狸）
 
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="/img/二维码.jpg" width = "80%" height ="80%" align="center"></p>
 </center>
 
 
