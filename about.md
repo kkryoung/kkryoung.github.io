@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="/img/icon.jpg" width = "80%" height ="80%" align="center"></p>
+    <p><img src="/img/icon.jpg" width = "30%" height ="30%" align="center"></p>
 </center>
 
 想创建一个公众号的想法由来已久，直到4月辞职，心想终于可以心无旁骛认认真真写点自己的小文章（呵呵，天真的我），在公众号泛滥的时代大潮中扑腾几下，但愿能看到点水花，如果不能就当洗澡了。
@@ -24,7 +24,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="/img/二维码.jpg" width = "80%" height ="80%" align="center"></p>
+    <p><img src="/img/二维码.jpg" width = "30%" height ="30%" align="center"></p>
 </center>
 
 
