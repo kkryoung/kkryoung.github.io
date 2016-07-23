@@ -1,14 +1,14 @@
 # Site settings
 title: 闭眼狐小狸
 header-img: "img/green.jpg"
-tagline: "Maggie"  
-description: "Maggie|闭眼狐小狸"  
+tagline: "狐小狸"  
+description: "狐小狸|闭眼狐小狸"  
 baseurl: ""
 url: "http://kkryoung.github.io"  
 
 # About/contact
 owner: 
-  name: "Maggie"
+  name: "狐小狸"
   email: 
   bio: ""
 
