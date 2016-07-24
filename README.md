@@ -8,7 +8,7 @@
 
 我是狐小狸，博客：[闭眼狐小狸](http://kkryoung.github.io)
 
-公众号
+  扫一扫关注“闭眼狐小狸”公众号
 <center>
     <p><img src="/img/二维码.jpg" width = "30%" height ="30%" align="center"></p>
 </center>
