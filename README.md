@@ -10,7 +10,7 @@
 
   扫一扫关注“闭眼狐小狸”公众号
 <center>
-    <p><img src="/img/二维码.jpg" width = "30%" height ="30%" align="center"></p>
+    <p><img src="/img/二维码.jpg" width = "25%" height ="25%" align="center"></p>
 </center>
 
 
