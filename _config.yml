@@ -50,7 +50,7 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : "狐小狸"
+    short_name : "huxiaoli"
   disqus :
       short_name : 
 
