@@ -14,7 +14,7 @@ owner:
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+favicon: img/狐狸.jpg
 
 douban_username:  
 twitter_username: 
@@ -66,5 +66,5 @@ bing_verify:
 donate: 
   enable: true
   text: Enjoy it ? Donate me !  欣赏此文？求鼓励，求支持！
-  alipay: img/微信打赏.jpg
-  wechat: img/支付宝打赏.jpg
+  alipay: "img/微信打赏.jpg"
+  wechat: "img/支付宝打赏.jpg"
