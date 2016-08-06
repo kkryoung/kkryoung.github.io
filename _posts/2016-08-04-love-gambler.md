@@ -59,7 +59,7 @@ description: 你如何成为一个爱情赌徒。
 图片来源：
 《我所有的朋友都死了》——艾弗里·蒙森、乔里·约翰著
 
-<! -- 添加捐赠图标 -->
+
     <div class ="post-donate">
       <div id="donate_board" class="donate_bar center">
         <a id="btn_donate" class="btn_donate" href="javascript:;" title="Donate 打赏"></a>
@@ -71,14 +71,14 @@ description: 你如何成为一个爱情赌徒。
         <br>
       </div>  
   
-    <!-- 支付宝打赏图案 -->
+
       <div id="donate_guide" class="donate_bar center hidden">
           <a href="/img/支付宝打赏.jpg" title="支付宝打赏" class="fancybox" rel="article0"       style="float:left;margin-left:25%;margin-right:2px;">
           <img src="/img/支付宝打赏.jpg" title="支付宝打赏" height="164px" width="164px">
           </a> 
       </div>
 
-    <!-- 微信打赏图案 -->
+
       <div id="donate_guide" class="donate_bar center hidden">
           <a href="/img/微信打赏.jpg.png" title="微信打赏" class="fancybox" rel="article0"  >
           <img src="/img/微信打赏.jpg" title="微信打赏" height="164px" width="164px">
@@ -92,4 +92,4 @@ description: 你如何成为一个爱情赌徒。
         }
       </script>
     </div>
-<! -- 添加捐赠图标 -->
+
