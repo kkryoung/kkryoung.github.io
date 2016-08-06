@@ -62,8 +62,8 @@ description: 你如何成为一个爱情赌徒。
 
 <form action="https://shenghuo.alipay.com/send/payment/fill.htm" method="POST" target="_blank" accept-charset="GBK">
 <input name="optEmail" type="hidden" value="kkryoung@yahoo.com" />
-<input name="payAmount" type="hidden" value="kkryoung@yahoo.com2" />
-<input id="title" name="title" type="hidden" value="默认显示的付款说明" />
-<input name="memo" type="hidden" value="备注" />
+<input name="payAmount" type="hidden" value="2" />
+<input id="title" name="title" type="hidden" value="打赏" />
+<input name="memo" type="hidden" value="打赏" />
 <input name="pay" type="image" value="转账" src="https://img.alipay.com/sys/personalprod/style/mc/btn-index.png" />
 </form>
