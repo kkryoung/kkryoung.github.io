@@ -60,36 +60,10 @@ description: 你如何成为一个爱情赌徒。
 《我所有的朋友都死了》——艾弗里·蒙森、乔里·约翰著
 
 
-    <div class ="post-donate">
-      <div id="donate_board" class="donate_bar center">
-        <a id="btn_donate" class="btn_donate" href="javascript:;" title="Donate 打赏"></a>
-        <span class="donate_txt">
-           ↑<br>
-           Enjoy it ? Donate me !  欣赏此文？求鼓励，求支持！
-           {% endif %}          
-        </span>
-        <br>
-      </div>  
-  
-
-      <div id="donate_guide" class="donate_bar center hidden">
-          <a href="/img/支付宝打赏.jpg" title="支付宝打赏" class="fancybox" rel="article0"       style="float:left;margin-left:25%;margin-right:2px;">
-          <img src="/img/支付宝打赏.jpg" title="支付宝打赏" height="164px" width="164px">
-          </a> 
-      </div>
-
-
-      <div id="donate_guide" class="donate_bar center hidden">
-          <a href="/img/微信打赏.jpg.png" title="微信打赏" class="fancybox" rel="article0"  >
-          <img src="/img/微信打赏.jpg" title="微信打赏" height="164px" width="164px">
-          </a> 
-      </div>
-  
-      <script type="text/javascript">
-        document.getElementById('btn_donate').onclick = function(){
-          $('#donate_board').addClass('hidden');
-          $('#donate_guide').removeClass('hidden');
-        }
-      </script>
-    </div>
-
+<form action="https://shenghuo.alipay.com/send/payment/fill.htm" method="POST" target="_blank" accept-charset="GBK">
+<input name="optEmail" type="hidden" value="你的支付宝账号" />
+<input name="payAmount" type="hidden" value="默认的捐赠金额" />
+<input id="title" name="title" type="hidden" value="默认显示的付款说明" />
+<input name="memo" type="hidden" value="备注" />
+<input name="pay" type="image" value="转账" src="https://img.alipay.com/sys/personalprod/style/mc/btn-index.png" />
+</form>
