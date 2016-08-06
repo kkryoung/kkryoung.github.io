@@ -59,11 +59,3 @@ description: 你如何成为一个爱情赌徒。
 图片来源：
 《我所有的朋友都死了》——艾弗里·蒙森、乔里·约翰著
 
-
-<form action="https://shenghuo.alipay.com/send/payment/fill.htm" method="POST" target="_blank" accept-charset="GBK">
-<input name="optEmail" type="hidden" value="kkryoung@yahoo.com" />
-<input name="payAmount" type="hidden" value="2" />
-<input id="title" name="title" type="hidden" value="打赏" />
-<input name="memo" type="hidden" value="打赏" />
-<input name="pay" type="image" value="转账" src="https://img.alipay.com/sys/personalprod/style/mc/btn-index.png" />
-</form>
