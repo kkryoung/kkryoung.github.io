@@ -39,6 +39,21 @@ layout: default
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
 
                 {{ content }}
+                
+```javascript
+<script>
+window.tctipConfig = {
+        staticPrefix:   "http://static.tctip.com",
+        buttonImageId:  1,
+        buttonTip:  "zanzhu",
+        list:{
+            alipay: {qrimg: "/img/支付宝打赏.jpg"},
+            weixin:{qrimg: "/img/微信打赏.jpg"},
+        }
+};
+</script>
+<script src="http://static.tctip.com/js/tctip.min.js"></script>
+```
 
                 <hr>
 
