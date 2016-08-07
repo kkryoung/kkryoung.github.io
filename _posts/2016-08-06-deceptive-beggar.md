@@ -68,5 +68,5 @@ description: 我被骗了，也依然愿意继续被骗
 
 <center>
     <p><img src="/img/微信打赏.jpg" align="center"></p>
-    打赏一下↑
+    打赏一下 ↑
 </center>
