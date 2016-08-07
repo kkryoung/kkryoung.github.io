@@ -59,3 +59,15 @@ description: 你如何成为一个爱情赌徒。
 图片来源：
 《我所有的朋友都死了》——艾弗里·蒙森、乔里·约翰著
 
+<script>
+    window.tctipConfig = {
+        staticPrefix:   "http://static.tctip.com",
+        buttonImageId:  1,
+        buttonTip:  "zanzhu",
+        list:{
+            alipay: {qrimg: "http://tctip.com/img/alipayqr.png"},
+            weixin:{qrimg: "http://littlebtc.com/images/yeshen.png"},
+        }
+};
+</script>
+<script src="http://static.tctip.com/js/tctip.min.js"></script>
