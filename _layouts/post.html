@@ -42,17 +42,19 @@ layout: default
                 
 ```javascript
 <script>
-window.tctipConfig = {
-        staticPrefix:   "http://static.tctip.com",
+    window.tctipConfig = {
+        imagePrefix:  "/img/",
+        cssPrefix:	  "/css/"
         buttonImageId:  1,
         buttonTip:  "zanzhu",
         list:{
-            alipay: {qrimg: "/img/支付宝打赏.jpg"},
-            weixin:{qrimg: "/img/微信打赏.jpg"},
+            alipay: {qrimg: "/img/支付宝.jpg"},
+            weixin:{qrimg: "/img/微信.jpg"},
         }
 };
 </script>
-<script src="http://static.tctip.com/js/tctip.min.js"></script>
+<script src="js/qrcode.js"></script>
+<script src="js/tctip.js"></script>
 ```
 
                 <hr>
