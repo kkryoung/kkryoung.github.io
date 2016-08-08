@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "狐小狸"
+description: "关于狐小狸"
 header-img: "img/green.jpg"
 ---
 
