@@ -3,7 +3,7 @@ layout: post
 title: 所谓命中注定或者缘分
 date: 2016-07-19
 categories: blog
-tags: [命中注定，缘分]
+tags: [命中注定,缘分]
 description: 命中注定或者缘分。
 ---
 
