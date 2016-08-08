@@ -63,10 +63,3 @@ description: 我被骗了，也依然愿意继续被骗
 
 
 后记：这两天转发的两则捐款众筹消息均属实。因为信任我而捐款的朋友们请放心。
-
----
-
-<center>
-    <p><img src="/img/微信打赏.jpg" align="center"></p>
-    打赏一下  ↑
-</center>
